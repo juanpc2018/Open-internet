@@ -52,6 +52,7 @@ to a fixed IP
 probably 255.255.255.255 or 1.1.1.1
 and all routers & computers in the Network,
 in-sync to a common Time Server.
+or individual Time servers connected to GPS satellites.
 
 the Network would Not have DNS servers at first,
 each friend must know the IP of the server you want to connect,
