@@ -23,7 +23,7 @@ LongRange modules have a wavelenght of 1600nm
 and allow up to 80Km range, 
 but are Not cheap, with OM5/6 cable.
 
-The idea of Open Internet is to create an 8 friend network,
+The idea is to create an 8 friend network,
 all bridged together.
 in all cardinal points,
 North, South, East, West, NorthEast, SouthEast, NorthWest, SouthWest.
@@ -50,7 +50,8 @@ it could have Clock problems,
 someone would have to connect a Rubidum Time Server
 to a fixed IP
 probably 255.255.255.255 or 1.1.1.1
-and all routers in-sync to a common Time Server.
+and all routers & computers in the Network,
+in-sync to a common Time Server.
 
 the Network would Not have DNS servers at first,
 each friend must know the IP of the server you want to connect,
