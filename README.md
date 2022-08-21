@@ -1,11 +1,10 @@
 in every decent system, there is always redundant systems...
 but internet has No Redundant system...
 
-The idea of Open internet, is to create a Friends Club,
-
 modern technology allows decentralization of internet.
 
 The idea is simple...
+The idea of Open internet, is to create a Friend Lan Party,
 
 SFP+ has speeds up to 10Gbps FullDuplex using Fiber Optic,
 there are Short Range and Long Range laser modules,
