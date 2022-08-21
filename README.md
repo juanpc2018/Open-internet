@@ -59,22 +59,22 @@ each friend must know the IP of the server you want to connect,
 like old times, land line, you must know the phone number you want to dial.
 in the future a search engine can be introduced.
 
-RouterOS allows Dynamic or Fixed IP.
+Router allows Dynamic or Fixed IP.
 
 Earth has aprox 40000km of circumference,
-Opne internet is a Giant Lan party,
+Open internet is a Giant Lan party,
 each "IP friend" is separated 80km from each other,
 Only requires 500 friends to have 1° of Earth totally connected.
-and 365x more for the Whole Earth to be connected.
-182500 Friends minimum to create Open Internet.
+Earth in the past was measured in Nautic Miles.
+365x more for the Whole Earth to be connected.
+182500 Friends to create Open Internet.
 
 but the magic of the 6° of separation theory
 is that you dont need to know the whole chain.
 https://www.youtube.com/watch?v=-8w-3oe1uJo
-one link only needs to know 2 more links in each Cardinal point.
+one link only needs to know 2 more links in opposing Cardinal points.
 
 The Goal of 80km per friend is too long,
-
 40km between friends = 1000 friends per 1°, and 365000 friends for 365° coverage.
 20km between friends = 2000 friends per 1°, and 730000 friends for 365° coverage.
 10km between friends = 4000 friends per 1°, and 1.5 Million friends for 365° coverage.
@@ -88,11 +88,11 @@ is possible.
 but at night requires battery,
 and battery dont last long used in deep cycles, requires constant maintenance,
 LiPo is expensive, 
-The ideal would be Super Capacitors, to avoid constant maintenance.
+The ideal would be Super Capacitors to avoid constant maintenance.
 but requires a large amount, and are very expensive.
 
-all inside a sealed double laeyr case, IP68 or better.
-Like those Plastic cases from SKB and similar.
+all inside a sealed double layer case, IP68 or better.
+Like those Molded Plastic cases from SKB and similar.
 white color to avoid melting with sun light
 and overheating the electronic components.
 
