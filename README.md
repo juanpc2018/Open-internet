@@ -69,7 +69,7 @@ and 365x more for the Whole Earth to be connected.
 182500 Friends minimum to create Open Internet.
 
 but the magic of the 6° of separation theory
-is that you dont need to know the whole chaim.
+is that you dont need to know the whole chain.
 https://www.youtube.com/watch?v=-8w-3oe1uJo
 one link only needs to know 2 more links in each Cardinal point.
 
