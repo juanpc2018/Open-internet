@@ -115,6 +115,7 @@ i think is very important for the future to create a 2nd internet.
 Open internet.
 
 This is Not my idea, the seed was planted by Time Travelers in a Dream.
-https://youtu.be/Bhd00tBhSg4 - https://youtu.be/ni4qEcUzyDg - 
+https://youtu.be/_QQ_QdKRkG4 - 
+https://youtu.be/Bhd00tBhSg4 - https://youtu.be/ni4qEcUzyDg - https://youtu.be/lcinXQNStnI - 
 https://youtu.be/yzhqNfJnIwo?t=23
 
