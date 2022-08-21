@@ -9,7 +9,7 @@ The idea of Open internet, is to create a Lan Party,
 SFP+ has speeds up to 10Gbps FullDuplex using Fiber Optic,
 there are Short Range and Long Range laser modules,
 
-SR has a wavelenght ofg 850nm 
+SR has a wavelenght of 850nm 
 and allows upto 300meters with OM3 cable,
 only 30 meters with OM1 cable.
 
