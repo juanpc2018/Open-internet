@@ -4,7 +4,7 @@ but internet has No Redundant system...
 modern technology allows decentralization of internet.
 
 The idea is simple...
-The idea of Open internet, is to create a Lan Party,
+create a Lan Party,
 
 SFP+ has speeds up to 10Gbps FullDuplex using Fiber Optic,
 there are Short Range and Long Range laser modules,
