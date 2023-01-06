@@ -23,28 +23,36 @@ LongRange modules have a wavelenght of 1600nm
 and allow up to 80Km range, 
 but are Not cheap, with OM5/6 cable.
 
-The idea is to create an 8 friend network,
-all bridged together.
+There is Single Ended or Dual Mode.
+In Dual Laser per module, Tx & Rx has the same Wavelengh for example 850nm,
+and information could phase cancel, thats why Tx & Rx has independent FiberOptic.
+in Single Ended, SFP+ module has dual frequency, like radio stations.
+Information can be Tx & Rx on the same Fiber.
+
+but that does Not matter for small installations,
+because large 10km rolls have 6 pairs of Fiber.
+like Snakes in Pro Audio.
+
+The idea is to create an 8x friend network,
+all bridged together,
 in all cardinal points,
 North, South, East, West, NorthEast, SouthEast, NorthWest, SouthWest.
 
-Each Member of the 8-Club, must have a powerful Router.
-The ideal would be ccr1072, 72-core 1GHz CPU,
-minimum a ccr2004-12s+
-The crs317-16s+ is cheap, but Not fast enough,
+Each Friend of the 8-Club, must have a powerful Router.
+ideal would be ccr1072, 72-core 1GHz CPU,
+recommended a ccr2004-12s+
+The crs317-16s+ is cheap, but CPU is Not fast enough.
 
-There are many other brands and options,
+There are other brands and options,
 like Honeycomb LX2 16-core ARMv8 CPU,
 has 4x SFP+ 
-there is higher model also with 100G,
-
-anyway....
+and the higher model with 100G,
 
 Open internet is based on the Theory of 6° of separation,
-to create the Network,
-but Not 6, 8.
+to create the Network, but Not 6, 8.
+https://youtu.be/-8w-3oe1uJo
 
-it would be a LAN IP4 Network,
+see the video to continue reading...
 
 it could have Clock problems, 
 someone would have to connect a Rubidum Time Server
