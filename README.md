@@ -23,11 +23,11 @@ LongRange modules have a wavelenght of 1600nm  </br>
 and allow up to 80Km range, </br>
 but are Not cheap, with OM5/6 cable. </br>
 
-There is Single Ended or Dual Mode. </br>
-In Dual Laser per module, Tx & Rx has the same Wavelengh for example 850nm, </br>
-and information could phase cancel, thats why Tx & Rx has independent FiberOptic. </br>
-in Single Ended, SFP+ module has dual frequency, like radio stations. </br>
-Information can be Tx & Rx on the same Fiber. </br>
+There is Single Ended or Dual Ended. </br>
+In Dual: has 2x Laser per module Tx & Rx has same Wavelengh, example 850nm, </br>
+and information could phase cancel, thats why Tx & Rx has independent FiberOptic "2-Wires". </br>
+in Single Ended: SFP+ module has dual frequency, like radio stations. </br>
+Information can be Tx & Rx on a single Fiber. "1-Wire"</br>
 
 but that does Not matter for small installations, </br>
 because large 10km rolls have 6 pairs of Fiber, </br>
