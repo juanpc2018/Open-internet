@@ -23,7 +23,7 @@ like Honeycomb LX2 16-core ARMv8 CPU, </br>
 has 4x SFP+ </br>
 and the higher model with 100G, </br>
 
-Open internet is based on the Theory of 6° of separation, </br>
+FOSS internet is based on the Theory of 6° of separation, </br>
 to create the Network, but Not 6, 8. </br>
 https://youtu.be/-8w-3oe1uJo </br>
 
