@@ -6,6 +6,30 @@ modern technology allows decentralization of internet. </br>
 The idea is simple... </br>
 create a Global Lan Party, </br>
 
+create an 8x friend network, </br>
+all bridged together, </br>
+in all cardinal points, </br>
+NorthWest - North - NorthEast </br>
+West ------- YOU ---- East </br>
+SouthWest - South - SouthEast. </br>
+![image](https://user-images.githubusercontent.com/33388902/211167004-0e111d73-5dc9-4459-a651-191f31972849.png)
+
+Each Friend of the 8th-Club, must have a powerful Router. </br>
+ideal would be ccr1072, 72-core 1GHz CPU, </br>
+recommended a ccr2004-12s+ </br>
+The crs317-16s+ is cheap, but CPU is Not fast enough. </br>
+
+There are other brands and options, </br>
+like Honeycomb LX2 16-core ARMv8 CPU, </br>
+has 4x SFP+ </br>
+and the higher model with 100G, </br>
+
+Open internet is based on the Theory of 6° of separation, </br>
+to create the Network, but Not 6, 8. </br>
+https://youtu.be/-8w-3oe1uJo </br>
+
+see the video to continue reading... </br>
+
 SFP+ has speeds up to 10Gbps FullDuplex using Fiber Optic, </br>
 there are Short Range and Long Range laser modules, </br>
 
@@ -32,27 +56,6 @@ Information can be Tx & Rx on a single Fiber. "1-Wire"</br>
 but that does Not matter for small installations, </br>
 because large 10km rolls have 6 pairs of Fiber, </br>
 like Snakes in Pro Audio. </br>
-
-The idea is to create an 8x friend network, </br>
-all bridged together, </br>
-in all cardinal points, </br>
-North, South, East, West, NorthEast, SouthEast, NorthWest, SouthWest. </br>
-
-Each Friend of the 8-Club, must have a powerful Router. </br>
-ideal would be ccr1072, 72-core 1GHz CPU, </br>
-recommended a ccr2004-12s+ </br>
-The crs317-16s+ is cheap, but CPU is Not fast enough. </br>
-
-There are other brands and options, </br>
-like Honeycomb LX2 16-core ARMv8 CPU, </br>
-has 4x SFP+ </br>
-and the higher model with 100G, </br>
-
-Open internet is based on the Theory of 6° of separation, </br>
-to create the Network, but Not 6, 8. </br>
-https://youtu.be/-8w-3oe1uJo </br>
-
-see the video to continue reading... </br>
 
 it could have Clock problems, </br>
 someone would have to connect a Rubidum Time Server </br>
