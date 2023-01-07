@@ -5,8 +5,7 @@ modern technology allows decentralization of internet. </br>
 
 The idea is simple... </br>
 create a Global Lan Party, </br>
-
-create an 8x friend network, </br>
+an 8x friend network, </br>
 all bridged together, </br>
 in all cardinal points, </br>
 NorthWest - North - NorthEast </br>
